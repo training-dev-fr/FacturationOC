@@ -1,0 +1,37 @@
+{
+    "listElement": [{
+        "min": 1,
+        "max": 4,
+        "sentence1": "C'est normal il n'y a pas eu d'appel à facturation.",
+        "sentence2": "Non ce n'est pas normal mais Workplace ne peut rien faire. Contactez OC"
+    }, {
+        "min": 5,
+        "max": 5,
+        "sentence1": "C'est normal vous venez de passer l'appel à facturation.",
+        "sentence2": "Non ce n'est pas normal mais Workplace ne peut rien faire. Contactez OC"
+    }, {
+        "min": 6,
+        "max": 7,
+        "sentence1": "C'est normal il y a beaucoup de factures à traiter. Les paiements ne vont pas tarder à être lancé mais il y a beaucoup de mentors à régler."
+    }, {
+        "min": 8,
+        "max": 10,
+        "sentence1": "C'est normal il y a beaucoup de factures à traiter. Les paiements sont en train d'être lancés. Certains ont été payé, d'autres pas encore. Il faut aussi tenir compte des délais de traitement des banques ou des services de paiements utilisés et des devises."
+    }, {
+        "min": 11,
+        "max": 11,
+        "sentence1": "La plupart des mentors ont reçu leur argent. Vous pouvez peut-être encore attendre un ou deux jours ouvrés avant de contacter OC car sur le workplace vous n'aurez pas plus d'info que \"moi oui\" \"moi non\""
+    }, {
+        "min": 12,
+        "max": 12,
+        "sentence1": "La plupart des mentors ont reçu leur argent. Vous pouvez peut-être encore attendre demain car sur le workplace vous n'aurez pas plus d'info que \"moi oui\" \"moi non\""
+    }, {
+        "min": 13,
+        "max": 21,
+        "sentence1": "Non c'est pas normal mais ce n'est pas grave. OC a officiellement 30 jours pour régler votre facture. Envoyez-un message à OC (si vous ne l'avez pas encore fait)."
+    }, {
+        "min": 22,
+        "max": 31,
+        "sentence1": "Non c'est pas normal mais ce n'est pas encore grave. OC a officiellement 30 jours pour régler votre facture. Envoyez-un message à OC (si vous ne l'avez pas encore fait). Relancez OC si ça fait 10 jours sans réponse."
+    }]
+}
